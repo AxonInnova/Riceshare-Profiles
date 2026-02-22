@@ -1,3 +1,11 @@
 {
-  "profiles": []
+  "profiles": [
+    {
+      "id": "neon-i3",
+      "name": "Neon i3",
+      "author": "AxonInnova",
+      "description": "Minimal i3 rice with kitty and rofi",
+      "path": "neon-i3"
+    }
+  ]
 }
